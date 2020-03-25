@@ -3,7 +3,7 @@ var express = require('express');
 var path = require('path');
 var cookieParser = require('cookie-parser');
 var logger = require('morgan');
-const API_PORT = 3002;
+const API_PORT = 3000;
 
 
 //mongoDB CONNECT
