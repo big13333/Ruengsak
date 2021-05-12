@@ -10,7 +10,7 @@
     "antd": "^3.26.6",
     "axios": "^0.19.2",
     "cookieparser": "^0.1.0",
-    "mathjs": "^6.6.1",
+    "mathjs": "^7.5.1",
     "react": "^16.12.0",
     "react-charts": "^2.0.0-beta.6",
     "react-dom": "^16.12.0",
